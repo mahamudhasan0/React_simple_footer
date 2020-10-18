@@ -1,0 +1,58 @@
+.footer{
+    background-color:black;
+    color: white;
+    text-align: left;
+    padding-left: 15px;
+    font-size: 10px;
+
+     
+}
+span{
+    font-size: 40px;
+
+}
+span:hover{
+    transform: scale(2);
+    cursor: pointer;
+}
+.icons{
+    
+    display:flex;
+}
+.header{
+    padding-left: 10px;
+
+}
+h2{
+    color: gray;
+}
+h1{
+    cursor: pointer;
+    line-height: 40px;
+}
+h1:hover{
+    color: teal;
+}
+.info{
+    font-size: 8px;
+    margin-top: 30px;
+    
+}
+span:nth-child(2){
+    padding-left: 10px;
+   
+}
+span:nth-child(3){
+    padding-left: 10px;
+}
+span:nth-child(4){
+  
+    padding-left: 10px;
+}
+.wrapper{
+    display:flex;
+
+}
+.separate{
+    margin-left: 80px;
+}
